@@ -10,7 +10,7 @@ To explore patterns in user feedback and identify factors affecting app ratings 
 
 ---
 
-## 🛠Tasks Performed
+## Tasks Performed
 - ✅ Examined dataset structure and features  
 - ✅ Cleaned missing, duplicate, and inconsistent data  
 - ✅ Transformed columns such as `ratings_category`, `age_group`, `review_year`, and `review_month`  
